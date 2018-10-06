@@ -51,7 +51,7 @@ Technically, **eight** different types of translations are identified:
  1. *Adaptation*: This is the 'freest' form of translation. It is used mainly for plays, poetry and creative works. The themes, characters and plots are usually preserved, the source language culture is converted to the target language culture and the text is rewritten. 
  1. *Free Translation*: Free translation is usually longer and lengthier than the original text and usually is more of a paraphrase and an explanation than a translation. It's more about conveying the matter (content) than the style.
  1. *Idiomatic Translation*: Idiomatic translation reproduces the 'message' of the original but tends to change the finer  meaning by using phrases and idioms where these do not exist in the original.
- 1. *Communicative Translation*:
+ 1. *Communicative Translation*: Communicative translation tries to preserve the exact contextual meaning of the original in such a way that both content and language are readily acceptable and comprehensible to the reader.
 
 ## Basic Principles
 
