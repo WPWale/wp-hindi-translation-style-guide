@@ -42,6 +42,8 @@ There are many such examples that just can't be translated literally. Proverbs a
 
 ## Types of Translations
 
+Adapted from http://shodhganga.inflibnet.ac.in/bitstream/10603/84903/11/11_chapter-2.pdf
+
 Technically, **eight** different types of translations are identified. I have divided them into three groups:
 
 ### For analysis & understanding of source language
