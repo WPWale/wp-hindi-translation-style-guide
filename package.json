@@ -1,0 +1,24 @@
+{
+  "name": "wp-hindi-translation-style-guide",
+  "version": "0.0.1",
+  "description": "A style guide for translating WordPress into Hindi.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WPWale/wp-hindi-translation-style-guide"
+  },
+  "keywords": [
+    "style-guide",
+    "i18n",
+    "l10n",
+    "translation"
+  ],
+  "author": {
+    "name": "Saurabh Shukla",
+    "email": "contact.saurabhshukla@gmail.com"
+  },
+  "license": "Unlicense",
+  "bugs": {
+    "url": https://github.com/WPWale/wp-hindi-translation-style-guide/issues"
+  },
+  "homepage": "https://github.com/WPWale/wp-hindi-translation-style-guide#readme"
+}
