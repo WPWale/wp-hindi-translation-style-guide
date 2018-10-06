@@ -40,6 +40,19 @@ For a simple example, when something `is good to go` it doesn't mean that it is 
 
 There are many such examples that just can't be translated literally. Proverbs also fall in this category. 
 
+## Types of Translations
+
+Technically, **eight** different types of translations are identified:
+
+ 1. *Word-for-Word Translation*: 
+ 1. *Literal Translation*: 
+ 1. *Faithful Translation*:
+ 1. *Semantic Translation*:
+ 1. *Adaptation*:
+ 1. *Free Translation*:
+ 1. *Idiomatic Translation*:
+ 1. *Communicative Translation*:
+
 ## Basic Principles
 
 ### 1. Human, not Machine
