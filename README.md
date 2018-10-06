@@ -50,7 +50,7 @@ Technically, **eight** different types of translations are identified:
  1. *Semantic Translation*: Compared to 'faithful translation', semantic translation gives more importance to the beauty (aesthetic value) of the source language text. In doing so, it often compromises on the 'meaning' when needed so that the finished version retains its aesthetics. Less important cultural words are often replaced by culturally neutral third or functional terms but not by cultural equivalents. The distinction between 'faithful' and 'semantic' translation is that the first is uncompromising and dogmatic, while the second is more flexible. It prefers creativity over 100% fidelity and allows for the translator's intuitive empathy with the original. 
  1. *Adaptation*: This is the 'freest' form of translation. It is used mainly for plays, poetry and creative works. The themes, characters and plots are usually preserved, the source language culture is converted to the target language culture and the text is rewritten. 
  1. *Free Translation*: Free translation is usually longer and lengthier than the original text and usually is more of a paraphrase and an explanation than a translation. It's more about conveying the matter (content) than the style.
- 1. *Idiomatic Translation*:
+ 1. *Idiomatic Translation*: Idiomatic translation reproduces the 'message' of the original but tends to change the finer  meaning by using phrases and idioms where these do not exist in the original.
  1. *Communicative Translation*:
 
 ## Basic Principles
