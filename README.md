@@ -42,16 +42,24 @@ There are many such examples that just can't be translated literally. Proverbs a
 
 ## Types of Translations
 
-Technically, **eight** different types of translations are identified:
+Technically, **eight** different types of translations are identified. I have divided them into three groups:
+
+### For analysis & understanding of source language
 
  1. *Word-for-Word Translation*: In this, the order of words of the source language is maintained and the words translated one by one by their most common meanings, out of context. Cultural words are translated literally. The main use of word-for-word translation is either to understand the mechanics of the source language or to break a difficult text down for understanding. 
- 1. *Literal Translation*: The source language grammatical constructions (made of structure words) are converted to their nearest target language equivalents but content words are again singly, out of context.
- 1. *Faithful Translation*: This translation attempts to be faithful to the precise contextual meaning of the original text within the constraints of the target language grammatical structures. It 'transfers' cultural words and preserves any degree of deviation in grammar and meaning from the source language norms. It attempts to be completely faithful to the intentions and the text realization of the source language writer. 
- 1. *Semantic Translation*: Compared to 'faithful translation', semantic translation gives more importance to the beauty (aesthetic value) of the source language text. In doing so, it often compromises on the 'meaning' when needed so that the finished version retains its aesthetics. Less important cultural words are often replaced by culturally neutral third or functional terms but not by cultural equivalents. The distinction between 'faithful' and 'semantic' translation is that the first is uncompromising and dogmatic, while the second is more flexible. It prefers creativity over 100% fidelity and allows for the translator's intuitive empathy with the original. 
- 1. *Adaptation*: This is the 'freest' form of translation. It is used mainly for plays, poetry and creative works. The themes, characters and plots are usually preserved, the source language culture is converted to the target language culture and the text is rewritten. 
- 1. *Free Translation*: Free translation is usually longer and lengthier than the original text and usually is more of a paraphrase and an explanation than a translation. It's more about conveying the matter (content) than the style.
- 1. *Idiomatic Translation*: Idiomatic translation reproduces the 'message' of the original but tends to change the finer  meaning by using phrases and idioms where these do not exist in the original.
- 1. *Communicative Translation*: Communicative translation tries to preserve the exact contextual meaning of the original in such a way that both content and language are readily acceptable and comprehensible to the reader.
+ 2. *Literal Translation*: The source language grammatical constructions (made of structure words) are converted to their nearest target language equivalents but content words are again singly, out of context.
+ 
+## For creative reproduction & detailed explanation
+
+ 3. *Faithful Translation*: This translation attempts to be faithful to the precise contextual meaning of the original text within the constraints of the target language grammatical structures. It 'transfers' cultural words and preserves any degree of deviation in grammar and meaning from the source language norms. It attempts to be completely faithful to the intentions and the text realization of the source language writer. 
+ 4. *Semantic Translation*: Compared to 'faithful translation', semantic translation gives more importance to the beauty (aesthetic value) of the source language text. In doing so, it often compromises on the 'meaning' when needed so that the finished version retains its aesthetics. Less important cultural words are often replaced by culturally neutral third or functional terms but not by cultural equivalents. The distinction between 'faithful' and 'semantic' translation is that the first is uncompromising and dogmatic, while the second is more flexible. It prefers creativity over 100% fidelity and allows for the translator's intuitive empathy with the original. 
+ 5. *Adaptation*: This is the 'freest' form of translation. It is used mainly for plays, poetry and creative works. The themes, characters and plots are usually preserved, the source language culture is converted to the target language culture and the text is rewritten. 
+ 6. *Free Translation*: Free translation is usually longer and lengthier than the original text and usually is more of a paraphrase and an explanation than a translation. It's more about conveying the matter (content) than the style.
+
+## For better understanding of readers
+
+ 7. *Idiomatic Translation*: Idiomatic translation reproduces the 'message' of the original but tends to change the finer  meaning by using phrases and idioms where these do not exist in the original.
+ 8. *Communicative Translation*: Communicative translation tries to preserve the exact contextual meaning of the original in such a way that both content and language are readily acceptable and comprehensible to the reader.
 
 ## Basic Principles
 
