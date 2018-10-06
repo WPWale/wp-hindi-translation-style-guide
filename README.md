@@ -44,7 +44,7 @@ There are many such examples that just can't be translated literally. Proverbs a
 
 Technically, **eight** different types of translations are identified:
 
- 1. *Word-for-Word Translation*: 
+ 1. *Word-for-Word Translation*: In this, the order of words of the source language is maintained and the words translated one by one by their most common meanings, out of context. Cultural words are translated literally. The main use of word-for-word translation is either to understand the mechanics of the source language or to break a difficult text down for understanding. 
  1. *Literal Translation*: 
  1. *Faithful Translation*:
  1. *Semantic Translation*:
