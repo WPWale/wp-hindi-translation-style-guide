@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/WPWale/wp-hindi-translation-style-guide/issues"
   },
-  "homepage": "https://github.com/WPWale/wp-hindi-translation-style-guide#readme"
+  "homepage": "https://github.com/WPWale/wp-hindi-translation-style-guide#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
