@@ -46,8 +46,8 @@ Technically, **eight** different types of translations are identified:
 
  1. *Word-for-Word Translation*: In this, the order of words of the source language is maintained and the words translated one by one by their most common meanings, out of context. Cultural words are translated literally. The main use of word-for-word translation is either to understand the mechanics of the source language or to break a difficult text down for understanding. 
  1. *Literal Translation*: The source language grammatical constructions (made of structure words) are converted to their nearest target language equivalents but content words are again singly, out of context.
- 1. *Faithful Translation*: 
- 1. *Semantic Translation*:
+ 1. *Faithful Translation*: This translation attempts to be faithful to the precise contextual meaning of the original text within the constraints of the target language grammatical structures. It 'transfers' cultural words and preserves any degree of deviation in grammar and meaning from the source language norms. It attempts to be completely faithful to the intentions and the text realization of the source language writer. 
+ 1. *Semantic Translation*: 
  1. *Adaptation*:
  1. *Free Translation*:
  1. *Idiomatic Translation*:
