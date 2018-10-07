@@ -35,8 +35,10 @@ Cultural names like names of places, religions, cultures, languages, etc often h
 
 | Source | Target (Wrong) | Target (Correct) |
 | ------ | -------------- | ---------------- |
-| Jewish | जिवीश | यहूदी |
+| American | अमेरीकन | अमरीकी |
 | Egypt | इजिप्ट | मिश्र |
 | Indian | इंडियन | भारतीय |
 | Italian | इटॅलियन | इतालवी |
+| Chinese | चाइनीज़ | चीनी |
+| South Korean | साउथ कोरियन | दक्षिण कोरियाई |
 
