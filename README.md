@@ -5,7 +5,7 @@ An attempt to create a sensible style guide for translating WordPress to Hindi.
 ## Branches
 
  1. The latest version under development is always under the `draft` branch. All contributions must be made to this branch.
- 1. The `master` branch is expected to contain the latest stable (complete) guide. Actual releases can be found versioned and tagged appropriately.
+ 1. The `master` branch is expected to contain the [latest stable (complete) guide](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/dist/guide.md). Actual releases can be found versioned and tagged appropriately.
 
 ## Directory Structure
 
