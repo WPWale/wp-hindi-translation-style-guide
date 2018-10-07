@@ -20,3 +20,4 @@ See [Contributing.md](https://github.com/WPWale/wp-hindi-translation-style-guide
 ## References
 
  1. [Computer Translation Style & Convention Guide for Hindi](http://fuelproject.org/newlook/wp-content/uploads/2016/04/fuel-translation-style-and-convention-guide-hi.pdf) by [Rajesh Ranjan](https://twitter.com/kajha)
+ 1. [Microsoft Style Guide](https://www.microsoft.com/en-us/language/StyleGuides), choose Hindi from the dropdown to download.  
