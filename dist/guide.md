@@ -22,7 +22,7 @@
 
 ## General Guidelines
 
-> Note: A basic understanding of [types of translation]() is needed to understand these.
+> Note: A basic understanding of [types of translation](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/draft/docs/types-translation.md) is needed to understand these.
 
 Even before devising a full style guide, the author feels that if translators follow a few basic principles, they won't need to refer a formal guide. A guide would, in fact, become a barrier in productivity if you had to look it up again and again. Keeping this in mind, think of this as a TLDR; version of the whole guide.
 
