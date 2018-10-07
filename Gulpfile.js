@@ -1,6 +1,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var toc = require('gulp-markdown-toc');
+var markdownPdf = require('gulp-markdown-pdf');
  
 gulp.task('build', function() {
   return gulp.src([
@@ -15,5 +16,7 @@ gulp.task('build', function() {
   ])
     .pipe(concat('guide.md'))
 	.pipe(toc())
-    .pipe(gulp.dest('./dist/'));
+    .pipe(gulp.dest('./dist/'))
+	.pipe(markdownPdf())
+    .pipe(gulp.dest('./dist/'))
 });
