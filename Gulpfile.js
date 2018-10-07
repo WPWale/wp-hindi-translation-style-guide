@@ -5,7 +5,7 @@ var toc = require('gulp-markdown-toc');
 gulp.task('build', function() {
   return gulp.src([
 	  './source/index.md',
-	  './source/1-general-guidelines.md',
+	  './source/general-guidelines.md',
 	  './source/2-terminology.md', 
 	  './source/3-punctuations-text-conventions.md',
 	  './source/numerals.md',
