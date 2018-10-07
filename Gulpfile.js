@@ -8,7 +8,8 @@ gulp.task('build', function() {
 	  './source/1-general-guidelines.md',
 	  './source/2-terminology.md', 
 	  './source/3-punctuations-text-conventions.md',
-	  './source/4-units-measurements.md',
+	  './source/numerals.md',
+	  './source/units-measurements.md',
 	  './source/5-general-spelling-guidelines.md',
 	  './source/6-basic-quality-parameters.md'
   ])
