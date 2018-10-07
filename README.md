@@ -13,6 +13,10 @@ An attempt to create a sensible style guide for translating WordPress to Hindi.
  1. `source` contains individual sections from the guide into separate files. All contributions must be made to the files in `source` and not to the full guide. The guide is built via an automatic build process.
  1. `dist` contains the full guide created by combining the individual sections in the `source` folder.
 
+## Contributing
+
+See [Contributing.md](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/Contributing.md)
+
 ## References
 
  1. [Computer Translation Style & Convention Guide for Hindi](http://fuelproject.org/newlook/wp-content/uploads/2016/04/fuel-translation-style-and-convention-guide-hi.pdf) by [Rajesh Ranjan](https://twitter.com/kajha)
