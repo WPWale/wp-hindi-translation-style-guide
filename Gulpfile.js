@@ -7,13 +7,12 @@ gulp.task('build', function() {
   return gulp.src([
 	  './source/index.md',
 	  './source/general-guidelines.md',
-	  './source/spellings.md',
-	  './source/2-terminology.md', 
-	  './source/3-punctuations-text-conventions.md',
+	  './source/spellings.md', 
+	  './source/punctuations-text-conventions.md',
 	  './source/localisation-l10n.md',
 	  './source/numerals.md',
 	  './source/units-measurements.md',
-	  './source/6-basic-quality-parameters.md'
+	  './source/basic-quality-parameters.md'
   ])
     .pipe(concat('guide.md'))
 	.pipe(toc())

@@ -1,8 +1,8 @@
-## Units and Measurements
+## 6. Units and Measurements
 
 The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officially and unofficially in India in all languages. Except for measuring body temperature (where we use Fahrenheit), generally temperature in India is measured in Celsius. So for Hindi translation, it should be changed in Celsius if in source language, it is in different units.
 
-### Volume, Weight, Length
+### 6.1 Volume, Weight, Length
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -15,7 +15,7 @@ The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officia
 | Centimeter | सेंटीमीटर | से.मी. |
 | Millimeter | मिलीमीटर | मि.मी. |
 
-### Power, Temperature, Electricity
+### 6.2 Power, Temperature, Electricity
 
 Unlike, the units of weight, volume & measurement, the abbreviations from English are used directly instead of transliteration or translation.
 
@@ -29,7 +29,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Celsius | सेल्सियस | °С |
 | Fahrenheit | फ़ॅरेनहाइट | °F |
 
-### Time Units
+### 6.3 Time Units
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -37,7 +37,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Minute | मिनट | मि. |
 | Second | सेकंड | से. |
 
-### Information Units
+### 6.4 Information Units
 
 Information units are used in the same way as they're used internationally but are transliterated. No points are used in the abbreviation because they have become common words in general usage and in popular media.
 
@@ -50,6 +50,3 @@ Information units are used in the same way as they're used internationally but a
 | bit | बिट | बिट |
 | Kilobytes per second | किलोबाइट प्रति सेकंड | केबीपीएस |
 | Megabytes per second | मेगाबाइट प्रति सेकंड | एमबीपीएस |
-
-
-
