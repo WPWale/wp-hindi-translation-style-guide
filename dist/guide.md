@@ -2,18 +2,18 @@
 
 <!-- toc -->
 
-- [1 General Guidelines](#1-general-guidelines)
-  * [1.1 Human, not Machine](#11-human-not-machine)
-  * [1.2 Communicative, not Literal](#12-communicative-not-literal)
-  * [1.3 Functionality, not Linguistic Pride](#13-functionality-not-linguistic-pride)
-- [Special Diacritics](#special-diacritics)
-  * [Anusvar (ं) & Chandrabindu (ँ)](#anusvar-%E0%A4%82--chandrabindu-%E0%A4%81)
-    + [Anusvar](#anusvar)
-    + [Anunasik/ Chandrabindu](#anunasik-chandrabindu)
-    + [Practical Usage](#practical-usage)
-  * [Vrtmukhi (ॅ, ॉ)](#vrtmukhi-%E0%A5%85-%E0%A5%89)
-  * [Nukta (़)](#nukta-%E0%A4%BC)
-    + [`ʒ` sound and श़](#%CA%92-sound-and-%E0%A4%B6%E0%A4%BC)
+- [1. General Guidelines](#1-general-guidelines)
+  * [1.1. Human, not Machine](#11-human-not-machine)
+  * [1.2. Communicative, not Literal](#12-communicative-not-literal)
+  * [1.3. Functionality, not Linguistic Pride](#13-functionality-not-linguistic-pride)
+- [2. Spellings](#2-spellings)
+  * [2.1. Anusvaar (ं) & Chandrabindu (ँ)](#21-anusvaar-%E0%A4%82--chandrabindu-%E0%A4%81)
+    + [2.1.1. Anusvaar](#211-anusvaar)
+    + [2.1.2. Anunaasik/ Chandrabindu](#212-anunaasik-chandrabindu)
+    + [2.1.3. Practical Usage](#213-practical-usage)
+  * [2.2. Vrtmukhi (ॅ, ॉ)](#22-vrtmukhi-%E0%A5%85-%E0%A5%89)
+  * [2.3. Nukta (़)](#23-nukta-%E0%A4%BC)
+    + [2.3.1. `ʒ` sound and श़](#231-%CA%92-sound-and-%E0%A4%B6%E0%A4%BC)
 - [Terminology](#terminology)
 - [Punctuations and Text Conventions](#punctuations-and-text-conventions)
 - [Localisation (l10n)](#localisation-l10n)
@@ -27,12 +27,11 @@
   * [Power, Temperature, Electricity](#power-temperature-electricity)
   * [Time Units](#time-units)
   * [Information Units](#information-units)
-- [General Spelling Guidelines](#general-spelling-guidelines)
 - [Basic Quality Parameters](#basic-quality-parameters)
 
 <!-- tocstop -->
 
-## 1 General Guidelines
+## 1. General Guidelines
 
 More detailed & general guidelines for translators of all languages are in the official WordPress [Translator's Handbook](https://make.wordpress.org/polyglots/handbook/). It is recommended to read the handbook before reading this guide. It contains a lot of technicalities and tools. This guide contains things specific to Hindi translation.
 
@@ -40,17 +39,17 @@ More detailed & general guidelines for translators of all languages are in the o
 
 Even before devising a full style guide, the author feels that if translators follow a few basic principles, they won't need to refer a formal guide. A guide would, in fact, become a barrier in productivity if you had to look it up again and again. Keeping this in mind, think of this as a TLDR; version of the whole guide.
 
-### 1.1 Human, not Machine
+### 1.1. Human, not Machine
 
 Machines like Google translate provide [Word-for-Word](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#1-word-for-word-translation) and/or [Literal](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#2-literal-translation) translations. Such translations can be really useful for translators to analyse and understand the original string. They can also be used to find synonyms for difficult word.
 
 Beyond that, simply copy-pasting their output is lazy, useless and a waste of time for translators, editors and users alike. Why spend your time doing something that could have been done with an API?
 
-### 1.2 Communicative, not Literal
+### 1.2. Communicative, not Literal
 
 Translating does not meaning taking a sentence and replacing it word by word with its Hindi equivalent. Instead, think of what meaning the sentence is trying to convey to a user, in the given context and what is the user expected to do as a result of reading the text. It doesn't matter if the text is completely different from the original as long as it conveys the context, meaning and intentions.
 
-### 1.3 Functionality, not Linguistic Pride
+### 1.3. Functionality, not Linguistic Pride
 
 Yes, Hindi is a great language with a great history and it is absolutely okay to be proud of your linguistic heritage and tradition. 
 
@@ -59,17 +58,17 @@ However, a software is built for a purpose and anything that interferes with its
 What works in an [academic or creative context](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#for-creative-reproduction--detailed-explanation) would probably not work for a software that is expected to be used by people of all kinds of educational, social and cultural backgrounds. Always think of what is more likely to be used in a day-to-day conversational setting than what should go in a formal textbook or official circular/notice. 
 
 Think about what is more important – creating a version of WordPress that is un-understandable and useless for the general population or creating a non-dogmatic version that's easier to use and adopt which will lead to the publishing and availability of tonnes of content in Hindi! What do you think will help the cause of Hindi more?
-## Special Diacritics
+## 2. Spellings
 
-### Anusvar (ं) & Chandrabindu (ँ) 
+### 2.1. Anusvaar (ं) & Chandrabindu (ँ) 
 
-#### Anusvar 
+#### 2.1.1. Anusvaar 
 
-#### Anunasik/ Chandrabindu 
+#### 2.1.2. Anunaasik/ Chandrabindu 
 
-#### Practical Usage 
+#### 2.1.3. Practical Usage 
 
-### Vrtmukhi (ॅ, ॉ)
+### 2.2. Vrtmukhi (ॅ, ॉ)
 
 This superscript semi-circle ihas become a very common diactritic to better represent the `e` (*tax*onomy) and `ɔː` (*doc*tor) sounds in English. These vowel sounds originally didn't exist in Hindi and the closest approximation can create confusion and mispronunciation.
 
@@ -80,7 +79,7 @@ This superscript semi-circle ihas become a very common diactritic to better repr
 
 For technical terms where the correct pronunciation of the word is important for communication, please use ॅ instead of े/ै and ॉ instead of ो/ौ.
 
-### Nukta (़)
+### 2.3. Nukta (़)
 
 This is also used to accurately transcribe the soft `f` sound from English and the soft `z` found in English and Arabic/Persian in loan words.
 
@@ -93,7 +92,7 @@ This is also used to accurately transcribe the soft `f` sound from English and t
 
 Again important to use the nukta correctly when transcribing technical terms and loan words. Without it, apart from the pronunciation, the spelling of a lot of words is considered incorrect.
 
-#### `ʒ` sound and श़
+#### 2.3.1. `ʒ` sound and श़
 
 `ʒ` (~ zh) is a sound that doesn't exist in Hindi. Phonetically it's a voiced version of a `ʃ` (sh) sound and that's why some authorities like [Wikipedia](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF_%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE:BernardM) use `श़` to represent this sound.
 
@@ -101,8 +100,6 @@ Again important to use the nukta correctly when transcribing technical terms and
 | ------ | -------------- | ---------------- |
 | Treasure | ट्रेजर/ट्रेज़र | ट्रेश़र |
 | Version | वर्जन/वर्शन/वर्ज़न | वर्श़न |
-
-Please follow this convention for transcribing such words.
 ## Terminology
 
 ## Punctuations and Text Conventions
@@ -231,7 +228,5 @@ Information units are used in the same way as they're used internationally but a
 
 
 
-
-## General Spelling Guidelines
 
 ## Basic Quality Parameters
