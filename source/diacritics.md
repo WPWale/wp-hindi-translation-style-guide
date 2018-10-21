@@ -1,10 +1,10 @@
 ## Special Diacritics
 
-### Anusvar (ं) & Chandrabindu (ँ) 
+### Anusvaar (ं) & Chandrabindu (ँ) 
 
-#### Anusvar 
+#### Anusvaar 
 
-#### Anunasik/ Chandrabindu 
+#### Anunaasik/ Chandrabindu 
 
 #### Practical Usage 
 
@@ -40,5 +40,3 @@ Again important to use the nukta correctly when transcribing technical terms and
 | ------ | -------------- | ---------------- |
 | Treasure | ट्रेजर/ट्रेज़र | ट्रेश़र |
 | Version | वर्जन/वर्शन/वर्ज़न | वर्श़न |
-
-Please follow this convention for transcribing such words.
