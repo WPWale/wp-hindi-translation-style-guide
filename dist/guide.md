@@ -14,20 +14,19 @@
   * [2.2. Vrtmukhi (ॅ, ॉ)](#22-vrtmukhi-%E0%A5%85-%E0%A5%89)
   * [2.3. Nukta (़)](#23-nukta-%E0%A4%BC)
     + [2.3.1. `ʒ` sound and श़](#231-%CA%92-sound-and-%E0%A4%B6%E0%A4%BC)
-- [Terminology](#terminology)
-- [Punctuations and Text Conventions](#punctuations-and-text-conventions)
-- [Localisation (l10n)](#localisation-l10n)
-  * [Date and Time](#date-and-time)
-  * [Currency](#currency)
-  * [Proper Nouns](#proper-nouns)
-- [Numerals](#numerals)
-  * [Numbering System](#numbering-system)
-- [Units and Measurements](#units-and-measurements)
-  * [Volume, Weight, Length](#volume-weight-length)
-  * [Power, Temperature, Electricity](#power-temperature-electricity)
-  * [Time Units](#time-units)
-  * [Information Units](#information-units)
-- [Basic Quality Parameters](#basic-quality-parameters)
+- [3. Punctuations and Text Conventions](#3-punctuations-and-text-conventions)
+- [4. Localisation (l10n)](#4-localisation-l10n)
+  * [4.1. Date and Time](#41-date-and-time)
+  * [4.2. Currency](#42-currency)
+  * [4.3. Proper Nouns](#43-proper-nouns)
+- [5. Numerals](#5-numerals)
+  * [5.1 Numbering System](#51-numbering-system)
+- [6. Units and Measurements](#6-units-and-measurements)
+  * [6.1 Volume, Weight, Length](#61-volume-weight-length)
+  * [6.2 Power, Temperature, Electricity](#62-power-temperature-electricity)
+  * [6.3 Time Units](#63-time-units)
+  * [6.4 Information Units](#64-information-units)
+- [7. Basic Quality Parameters](#7-basic-quality-parameters)
 
 <!-- tocstop -->
 
@@ -100,13 +99,11 @@ Again important to use the nukta correctly when transcribing technical terms and
 | ------ | -------------- | ---------------- |
 | Treasure | ट्रेजर/ट्रेज़र | ट्रेश़र |
 | Version | वर्जन/वर्शन/वर्ज़न | वर्श़न |
-## Terminology
+## 3. Punctuations and Text Conventions
 
-## Punctuations and Text Conventions
+## 4. Localisation (l10n)
 
-## Localisation (l10n)
-
-### Date and Time
+### 4.1. Date and Time
 
 > Most auto-generated dates are taken care of by localisation mechanisms built into WordPress. This is only for specific dates mentioned in text, for instance, in announcements.
 
@@ -118,7 +115,7 @@ Time is expressed the same universally.
 
 >Also see the section on [Numerals](#numerals) 
 
-### Currency
+### 4.2. Currency
 
 > Most auto-generated pricing is taken care of in code. This is only in case it appears as it is in strings.
 
@@ -126,7 +123,7 @@ Any `$` sign in original text must be replaced by `₹` in translations. An exce
 
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
 
-### Proper Nouns
+### 4.3. Proper Nouns
 
 Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
 
@@ -148,8 +145,7 @@ Cultural names like names of places, religions, cultures, languages, etc often h
 | Chinese | चाइनीज़ | चीनी |
 | South Korean | साउथ कोरियन | दक्षिण कोरियाई |
 
-
-## Numerals
+## 5. Numerals
 
 International numerals are derived from Indian numerals via Arabic numerals and the decimal system also comes from India so we don't have any deviation.
 
@@ -158,7 +154,7 @@ Although Devnagari numerals(०,१,२,३,४,५,६,७,८,९) exist, they
 So, we stick to that for translations and only use international numerals (0,1,2,3,4,5,6,7,8,9).
 
 
-### Numbering System
+### 5.1 Numbering System
 
 The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_system) is different from the Western numbering system for expressing numbers larger than ten thousands. Lakhs (लाख) & crores (करोड़) are used in place of millions and billions. Although, there are words for numbers larger than a crore (arabs and kharabs), generally such numbers are expressed in crores.
 
@@ -172,12 +168,11 @@ The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_sys
 | 1,000,000,000 (One billion)| 1,00,00,00,000 (सौ करोड़, ~~एक अरब~~)|
 | 100,000,000,000 (Hundred billion)| 1,00,00,00,00,000 (दस हज़ार करोड़, ~~एक खरब~~)|
 
-
-## Units and Measurements
+## 6. Units and Measurements
 
 The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officially and unofficially in India in all languages. Except for measuring body temperature (where we use Fahrenheit), generally temperature in India is measured in Celsius. So for Hindi translation, it should be changed in Celsius if in source language, it is in different units.
 
-### Volume, Weight, Length
+### 6.1 Volume, Weight, Length
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -190,7 +185,7 @@ The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officia
 | Centimeter | सेंटीमीटर | से.मी. |
 | Millimeter | मिलीमीटर | मि.मी. |
 
-### Power, Temperature, Electricity
+### 6.2 Power, Temperature, Electricity
 
 Unlike, the units of weight, volume & measurement, the abbreviations from English are used directly instead of transliteration or translation.
 
@@ -204,7 +199,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Celsius | सेल्सियस | °С |
 | Fahrenheit | फ़ॅरेनहाइट | °F |
 
-### Time Units
+### 6.3 Time Units
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -212,7 +207,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Minute | मिनट | मि. |
 | Second | सेकंड | से. |
 
-### Information Units
+### 6.4 Information Units
 
 Information units are used in the same way as they're used internationally but are transliterated. No points are used in the abbreviation because they have become common words in general usage and in popular media.
 
@@ -226,7 +221,4 @@ Information units are used in the same way as they're used internationally but a
 | Kilobytes per second | किलोबाइट प्रति सेकंड | केबीपीएस |
 | Megabytes per second | मेगाबाइट प्रति सेकंड | एमबीपीएस |
 
-
-
-
-## Basic Quality Parameters
+## 7. Basic Quality Parameters
