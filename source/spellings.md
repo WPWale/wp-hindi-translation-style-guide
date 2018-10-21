@@ -1,14 +1,14 @@
-## Special Diacritics
+## 2. Spellings
 
-### Anusvaar (ं) & Chandrabindu (ँ) 
+    ### 2.1 Anusvaar (ं) & Chandrabindu (ँ) 
 
-#### Anusvaar 
+        #### 2.1.1 Anusvaar 
 
-#### Anunaasik/ Chandrabindu 
+        #### 2.1.2 Anunaasik/ Chandrabindu 
 
-#### Practical Usage 
+        #### 2.1.3 Practical Usage 
 
-### Vrtmukhi (ॅ, ॉ)
+    ### 2.2 Vrtmukhi (ॅ, ॉ)
 
 This superscript semi-circle ihas become a very common diactritic to better represent the `e` (*tax*onomy) and `ɔː` (*doc*tor) sounds in English. These vowel sounds originally didn't exist in Hindi and the closest approximation can create confusion and mispronunciation.
 
@@ -19,7 +19,7 @@ This superscript semi-circle ihas become a very common diactritic to better repr
 
 For technical terms where the correct pronunciation of the word is important for communication, please use ॅ instead of े/ै and ॉ instead of ो/ौ.
 
-### Nukta (़)
+    ### 2.3 Nukta (़)
 
 This is also used to accurately transcribe the soft `f` sound from English and the soft `z` found in English and Arabic/Persian in loan words.
 
@@ -32,7 +32,7 @@ This is also used to accurately transcribe the soft `f` sound from English and t
 
 Again important to use the nukta correctly when transcribing technical terms and loan words. Without it, apart from the pronunciation, the spelling of a lot of words is considered incorrect.
 
-#### `ʒ` sound and श़
+    #### 2.3.1 `ʒ` sound and श़
 
 `ʒ` (~ zh) is a sound that doesn't exist in Hindi. Phonetically it's a voiced version of a `ʃ` (sh) sound and that's why some authorities like [Wikipedia](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF_%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE:BernardM) use `श़` to represent this sound.
 
