@@ -1,4 +1,4 @@
-## 1 General Guidelines
+## 1. General Guidelines
 
 More detailed & general guidelines for translators of all languages are in the official WordPress [Translator's Handbook](https://make.wordpress.org/polyglots/handbook/). It is recommended to read the handbook before reading this guide. It contains a lot of technicalities and tools. This guide contains things specific to Hindi translation.
 
@@ -6,17 +6,17 @@ More detailed & general guidelines for translators of all languages are in the o
 
 Even before devising a full style guide, the author feels that if translators follow a few basic principles, they won't need to refer a formal guide. A guide would, in fact, become a barrier in productivity if you had to look it up again and again. Keeping this in mind, think of this as a TLDR; version of the whole guide.
 
-### 1.1 Human, not Machine
+### 1.1. Human, not Machine
 
 Machines like Google translate provide [Word-for-Word](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#1-word-for-word-translation) and/or [Literal](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#2-literal-translation) translations. Such translations can be really useful for translators to analyse and understand the original string. They can also be used to find synonyms for difficult word.
 
 Beyond that, simply copy-pasting their output is lazy, useless and a waste of time for translators, editors and users alike. Why spend your time doing something that could have been done with an API?
 
-### 1.2 Communicative, not Literal
+### 1.2. Communicative, not Literal
 
 Translating does not meaning taking a sentence and replacing it word by word with its Hindi equivalent. Instead, think of what meaning the sentence is trying to convey to a user, in the given context and what is the user expected to do as a result of reading the text. It doesn't matter if the text is completely different from the original as long as it conveys the context, meaning and intentions.
 
-### 1.3 Functionality, not Linguistic Pride
+### 1.3. Functionality, not Linguistic Pride
 
 Yes, Hindi is a great language with a great history and it is absolutely okay to be proud of your linguistic heritage and tradition. 
 
