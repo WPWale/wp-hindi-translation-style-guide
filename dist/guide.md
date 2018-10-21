@@ -13,6 +13,7 @@
     + [Practical Usage](#practical-usage)
   * [Vrtmukhi (ॅ, ॉ)](#vrtmukhi-%E0%A5%85-%E0%A5%89)
   * [Nukta (़)](#nukta-%E0%A4%BC)
+    + [`ʒ` sound and श़](#%CA%92-sound-and-%E0%A4%B6%E0%A4%BC)
 - [Terminology](#terminology)
 - [Punctuations and Text Conventions](#punctuations-and-text-conventions)
 - [Localisation (l10n)](#localisation-l10n)
@@ -91,6 +92,17 @@ This is also used to accurately transcribe the soft `f` sound from English and t
 | Document | दस्तावेज | दस्तावेज़ |
 
 Again important to use the nukta correctly when transcribing technical terms and loan words. Without it, apart from the pronunciation, the spelling of a lot of words is considered incorrect.
+
+#### `ʒ` sound and श़
+
+`ʒ` (~ zh) is a sound that doesn't exist in Hindi. Phonetically it's a voiced version of a `ʃ` (sh) sound and that's why some authorities like [Wikipedia](https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A6%E0%A4%B8%E0%A5%8D%E0%A4%AF_%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE:BernardM) use `श़` to represent this sound.
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Treasure | ट्रेजर/ट्रेज़र | ट्रेश़र |
+| Version | वर्जन/वर्शन/वर्ज़न | वर्श़न |
+
+Please follow this convention for transcribing such words.
 ## Terminology
 
 ## Punctuations and Text Conventions
