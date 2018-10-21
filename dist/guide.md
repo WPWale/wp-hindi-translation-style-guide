@@ -6,6 +6,13 @@
   * [1.1 Human, not Machine](#11-human-not-machine)
   * [1.2 Communicative, not Literal](#12-communicative-not-literal)
   * [1.3 Functionality, not Linguistic Pride](#13-functionality-not-linguistic-pride)
+- [Special Diacritics](#special-diacritics)
+  * [Anusvar (ं) & Chandrabindu (ँ)](#anusvar-%E0%A4%82--chandrabindu-%E0%A4%81)
+    + [Anusvar](#anusvar)
+    + [Anunasik/ Chandrabindu](#anunasik-chandrabindu)
+    + [Practical Usage](#practical-usage)
+  * [Vrtmukhi (ॅ, ॉ)](#vrtmukhi-%E0%A5%85-%E0%A5%89)
+  * [Nukta (़)](#nukta-%E0%A4%BC)
 - [Terminology](#terminology)
 - [Punctuations and Text Conventions](#punctuations-and-text-conventions)
 - [Localisation (l10n)](#localisation-l10n)
@@ -51,6 +58,39 @@ However, a software is built for a purpose and anything that interferes with its
 What works in an [academic or creative context](https://github.com/WPWale/wp-hindi-translation-style-guide/blob/master/docs/types-translation.md#for-creative-reproduction--detailed-explanation) would probably not work for a software that is expected to be used by people of all kinds of educational, social and cultural backgrounds. Always think of what is more likely to be used in a day-to-day conversational setting than what should go in a formal textbook or official circular/notice. 
 
 Think about what is more important – creating a version of WordPress that is un-understandable and useless for the general population or creating a non-dogmatic version that's easier to use and adopt which will lead to the publishing and availability of tonnes of content in Hindi! What do you think will help the cause of Hindi more?
+## Special Diacritics
+
+### Anusvar (ं) & Chandrabindu (ँ) 
+
+#### Anusvar 
+
+#### Anunasik/ Chandrabindu 
+
+#### Practical Usage 
+
+### Vrtmukhi (ॅ, ॉ)
+
+This superscript semi-circle ihas become a very common diactritic to better represent the `e` (*tax*onomy) and `ɔː` (*doc*tor) sounds in English. These vowel sounds originally didn't exist in Hindi and the closest approximation can create confusion and mispronunciation.
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Docker | डौकर/डाकर | डॉकर |
+| Stack | स्टैक | स्टॅक |
+
+For technical terms where the correct pronunciation of the word is important for communication, please use ॅ instead of े/ै and ॉ instead of ो/ौ.
+
+### Nukta (़)
+
+This is also used to accurately transcribe the soft `f` sound from English and the soft `z` found in English and Arabic/Persian in loan words.
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Feed (as in RSS) | फीड | फ़ीड |
+| Valid | जायज | जायज़ |
+| File | फाइल | फ़ाइल |
+| Document | दस्तावेज | दस्तावेज़ |
+
+Again important to use the nukta correctly when transcribing technical terms and loan words. Without it, apart from the pronunciation, the spelling of a lot of words is considered incorrect.
 ## Terminology
 
 ## Punctuations and Text Conventions
