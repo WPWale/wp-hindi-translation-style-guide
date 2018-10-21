@@ -7,6 +7,7 @@ gulp.task('build', function() {
   return gulp.src([
 	  './source/index.md',
 	  './source/general-guidelines.md',
+	  './source/diacritics.md',
 	  './source/2-terminology.md', 
 	  './source/3-punctuations-text-conventions.md',
 	  './source/localisation-l10n.md',
