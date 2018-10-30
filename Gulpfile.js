@@ -12,8 +12,7 @@ gulp.task('build', function() {
 	  './source/text-conventions.md',
 	  './source/localisation-l10n.md',
 	  './source/numerals.md',
-	  './source/units-measurements.md',
-	  './source/basic-quality-parameters.md'
+	  './source/units-measurements.md'
   ])
     .pipe(concat('guide.md'))
 	.pipe(toc())

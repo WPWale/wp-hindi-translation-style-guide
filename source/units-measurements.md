@@ -1,8 +1,8 @@
-## 6. Units and Measurements
+## 7. Units and Measurements
 
 The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officially and unofficially in India in all languages. Except for measuring body temperature (where we use Fahrenheit), generally temperature in India is measured in Celsius. So for Hindi translation, it should be changed in Celsius if in source language, it is in different units.
 
-### 6.1 Volume, Weight, Length
+### 7.1 Volume, Weight, Length
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -15,7 +15,7 @@ The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officia
 | Centimeter | सेंटीमीटर | से.मी. |
 | Millimeter | मिलीमीटर | मि.मी. |
 
-### 6.2 Power, Temperature, Electricity
+### 7.2 Power, Temperature, Electricity
 
 Unlike, the units of weight, volume & measurement, the abbreviations from English are used directly instead of transliteration or translation.
 
@@ -29,7 +29,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Celsius | सेल्सियस | °С |
 | Fahrenheit | फ़ॅरेनहाइट | °F |
 
-### 6.3 Time Units
+### 7.3 Time Units
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -37,7 +37,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Minute | मिनट | मि. |
 | Second | सेकंड | से. |
 
-### 6.4 Information Units
+### 7.4 Information Units
 
 Information units are used in the same way as they're used internationally but are transliterated. No points are used in the abbreviation because they have become common words in general usage and in popular media.
 
