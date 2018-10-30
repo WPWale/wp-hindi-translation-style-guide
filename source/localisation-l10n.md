@@ -1,6 +1,6 @@
-## 4. Localisation (l10n)
+## 5. Localisation (l10n)
 
-### 4.1. Date and Time
+### 5.1. Date and Time
 
 > Most auto-generated dates are taken care of by localisation mechanisms built into WordPress. This is only for specific dates mentioned in text, for instance, in announcements.
 
@@ -12,7 +12,7 @@ Time is expressed the same universally.
 
 >Also see the section on [Numerals](#numerals) 
 
-### 4.2. Currency
+### 5.2. Currency
 
 > Most auto-generated pricing is taken care of in code. This is only in case it appears as it is in strings.
 
@@ -20,7 +20,7 @@ Any `$` sign in original text must be replaced by `₹` in translations. An exce
 
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
 
-### 4.3. Proper Nouns
+### 5.3. Proper Nouns
 
 Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
 
