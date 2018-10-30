@@ -22,18 +22,21 @@
   * [3.2. Capitalisation & UPPERCASE](#32-capitalisation--uppercase)
   * [3.3. Colon (:)](#33-colon-)
 - [4. Text Conventions](#4-text-conventions)
-- [4. Localisation (l10n)](#4-localisation-l10n)
-  * [4.1. Date and Time](#41-date-and-time)
-  * [4.2. Currency](#42-currency)
-  * [4.3. Proper Nouns](#43-proper-nouns)
-- [5. Numerals](#5-numerals)
-  * [5.1 Numbering System](#51-numbering-system)
-- [6. Units and Measurements](#6-units-and-measurements)
-  * [6.1 Volume, Weight, Length](#61-volume-weight-length)
-  * [6.2 Power, Temperature, Electricity](#62-power-temperature-electricity)
-  * [6.3 Time Units](#63-time-units)
-  * [6.4 Information Units](#64-information-units)
-- [7. Basic Quality Parameters](#7-basic-quality-parameters)
+  * [4.1. Acronymns](#41-acronymns)
+  * [4.2. Abbreviations](#42-abbreviations)
+  * [4.3. Branding](#43-branding)
+  * [4.4. Legal Texts](#44-legal-texts)
+- [5. Localisation (l10n)](#5-localisation-l10n)
+  * [5.1. Date and Time](#51-date-and-time)
+  * [5.2. Currency](#52-currency)
+  * [5.3. Proper Nouns](#53-proper-nouns)
+- [6. Numerals](#6-numerals)
+  * [6.1. Numbering System](#61-numbering-system)
+- [7. Units and Measurements](#7-units-and-measurements)
+  * [7.1 Volume, Weight, Length](#71-volume-weight-length)
+  * [7.2 Power, Temperature, Electricity](#72-power-temperature-electricity)
+  * [7.3 Time Units](#73-time-units)
+  * [7.4 Information Units](#74-information-units)
 
 <!-- tocstop -->
 
@@ -200,9 +203,17 @@ A colon (`:`) is used before a list or an explanation that follows. Since there 
 
 ## 4. Text Conventions
 
-## 4. Localisation (l10n)
+### 4.1. Acronymns
 
-### 4.1. Date and Time
+### 4.2. Abbreviations
+
+### 4.3. Branding
+
+### 4.4. Legal Texts
+
+## 5. Localisation (l10n)
+
+### 5.1. Date and Time
 
 > Most auto-generated dates are taken care of by localisation mechanisms built into WordPress. This is only for specific dates mentioned in text, for instance, in announcements.
 
@@ -214,7 +225,7 @@ Time is expressed the same universally.
 
 >Also see the section on [Numerals](#numerals) 
 
-### 4.2. Currency
+### 5.2. Currency
 
 > Most auto-generated pricing is taken care of in code. This is only in case it appears as it is in strings.
 
@@ -222,7 +233,7 @@ Any `$` sign in original text must be replaced by `₹` in translations. An exce
 
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
 
-### 4.3. Proper Nouns
+### 5.3. Proper Nouns
 
 Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
 
@@ -244,7 +255,7 @@ Cultural names like names of places, religions, cultures, languages, etc often h
 | Chinese | चाइनीज़ | चीनी |
 | South Korean | साउथ कोरियन | दक्षिण कोरियाई |
 
-## 5. Numerals
+## 6. Numerals
 
 International numerals are derived from Indian numerals via Arabic numerals and the decimal system also comes from India so we don't have any deviation.
 
@@ -253,7 +264,7 @@ Although Devnagari numerals(०,१,२,३,४,५,६,७,८,९) exist, they
 So, we stick to that for translations and only use international numerals (0,1,2,3,4,5,6,7,8,9).
 
 
-### 5.1 Numbering System
+### 6.1. Numbering System
 
 The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_system) is different from the Western numbering system for expressing numbers larger than ten thousands. Lakhs (लाख) & crores (करोड़) are used in place of millions and billions. Although, there are words for numbers larger than a crore (arabs and kharabs), generally such numbers are expressed in crores.
 
@@ -267,11 +278,11 @@ The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_sys
 | 1,000,000,000 (One billion)| 1,00,00,00,000 (सौ करोड़, ~~एक अरब~~)|
 | 100,000,000,000 (Hundred billion)| 1,00,00,00,00,000 (दस हज़ार करोड़, ~~एक खरब~~)|
 
-## 6. Units and Measurements
+## 7. Units and Measurements
 
 The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officially and unofficially in India in all languages. Except for measuring body temperature (where we use Fahrenheit), generally temperature in India is measured in Celsius. So for Hindi translation, it should be changed in Celsius if in source language, it is in different units.
 
-### 6.1 Volume, Weight, Length
+### 7.1 Volume, Weight, Length
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -284,7 +295,7 @@ The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officia
 | Centimeter | सेंटीमीटर | से.मी. |
 | Millimeter | मिलीमीटर | मि.मी. |
 
-### 6.2 Power, Temperature, Electricity
+### 7.2 Power, Temperature, Electricity
 
 Unlike, the units of weight, volume & measurement, the abbreviations from English are used directly instead of transliteration or translation.
 
@@ -298,7 +309,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Celsius | सेल्सियस | °С |
 | Fahrenheit | फ़ॅरेनहाइट | °F |
 
-### 6.3 Time Units
+### 7.3 Time Units
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -306,7 +317,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Minute | मिनट | मि. |
 | Second | सेकंड | से. |
 
-### 6.4 Information Units
+### 7.4 Information Units
 
 Information units are used in the same way as they're used internationally but are transliterated. No points are used in the abbreviation because they have become common words in general usage and in popular media.
 
@@ -319,5 +330,3 @@ Information units are used in the same way as they're used internationally but a
 | bit | बिट | बिट |
 | Kilobytes per second | किलोबाइट प्रति सेकंड | केबीपीएस |
 | Megabytes per second | मेगाबाइट प्रति सेकंड | एमबीपीएस |
-
-## 7. Basic Quality Parameters
