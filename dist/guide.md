@@ -17,7 +17,11 @@
     + [2.4.3. -यें vs -एँ](#243--%E0%A4%AF%E0%A5%87%E0%A4%82-vs--%E0%A4%8F%E0%A4%81)
     + [2.4.4. A simple trick for vowel vs य](#244-a-simple-trick-for-vowel-vs-%E0%A4%AF)
   * [2.5. -ह्न vs -न्ह](#25--%E0%A4%B9%E0%A5%8D%E0%A4%A8-vs--%E0%A4%A8%E0%A5%8D%E0%A4%B9)
-- [3. Punctuations and Text Conventions](#3-punctuations-and-text-conventions)
+- [3. Punctuations](#3-punctuations)
+  * [3.1. Full-Stop](#31-full-stop)
+  * [3.2. Capitalisation & UPPERCASE](#32-capitalisation--uppercase)
+  * [3.3. Colon (:)](#33-colon-)
+- [4. Text Conventions](#4-text-conventions)
 - [4. Localisation (l10n)](#4-localisation-l10n)
   * [4.1. Date and Time](#41-date-and-time)
   * [4.2. Currency](#42-currency)
@@ -175,7 +179,26 @@ When a nasalisation (usually न, but sometimes म) comes after a ह्, a lot
 | ------ | -------------- | ---------------- |
 | Sign | चिन्ह | चिह्न |
 | God | ब्रम्ह | ब्रह्म |
-## 3. Punctuations and Text Conventions
+## 3. Punctuations
+
+The predecessor mother language of Hindi, Sanskrit has no punctuation except `।` (full-stop/end of sentence, पूर्ण-विराम) and `।।` (end of paragraph, दीर्घ-विराम). That's because Sanskrit has unique properties because of which it just [doesn't need punctuation](https://uttishthabharata.wordpress.com/2011/08/27/sanskrit-punctuation/). So, the punctuation used in Hindi is the same as English, except for a few cases described below.
+
+### 3.1. Full-Stop
+
+The `।` (khadi pai/ danda) is used instead of a full-stop. Usage of the full-stop itself is acceptable generally but it is recomended that this rule remains consistent throught the body of work. In WordPress, we use `।` everywhere.
+
+### 3.2. Capitalisation & UPPERCASE
+
+The Devnagari script doesn't have the concept of lower and upper cases. In English, cases are used to highlight letters and heavily emphasise words (to indicate loudness/ shouting). (WordPress is an example!)
+
+The general recommendation is to increase the font-size for uppercase text (to indicate shouting) and ignore capitalisation. Since translators don't have access to font-size, it is recommended to use inverted commas for fully uppercase words. Capitalisations can be ignored safely. So WordPress becomes वर्डप्रेस with no highlights.
+
+### 3.3. Colon (:)
+
+A colon (`:`) is used before a list or an explanation that follows. Since there is a character Visarga
+(`:`) in Hindi similar to colon, to avoid confusion we use long dash (`–`) instead of the English colon.
+
+## 4. Text Conventions
 
 ## 4. Localisation (l10n)
 
