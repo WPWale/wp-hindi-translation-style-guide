@@ -4,7 +4,15 @@
 
 ### 4.2. Acronymns
 
-### 4.3. Branding
+### 4.3. Names
+
+#### 4.3.1 Brand Names
+
+#### 4.3.2 Keyboard Keys
+
+#### 4.3.3 People
+
+#### 4.3.4 Others
 
 ### 4.4. Legal Texts & Licenses
 
