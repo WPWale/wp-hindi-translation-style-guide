@@ -18,6 +18,7 @@ Time is expressed the same universally.
 
 Any `$` sign in original text must be replaced by `₹` in translations. An exception to this rule is when the text contains the price of something (eg, $100) in which case it can be misleading to simply replace the currency symbol.
 
+<<<<<<< HEAD
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
 
 ### 5.3. Proper Nouns
@@ -41,3 +42,6 @@ Cultural names like names of places, religions, cultures, languages, etc often h
 | Italian | इटॅलियन | इतालवी |
 | Chinese | चाइनीज़ | चीनी |
 | South Korean | साउथ कोरियन | दक्षिण कोरियाई |
+=======
+In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
+>>>>>>> master
