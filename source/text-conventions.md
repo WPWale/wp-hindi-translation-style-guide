@@ -6,13 +6,33 @@
 
 ### 4.3. Names
 
-#### 4.3.1 Brand Names
+#### 4.3.1 People
 
-#### 4.3.2 Keyboard Keys
+Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
 
-#### 4.3.3 People
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Uthman | उस्मान | उथमान | 
+| Mary | मेरी | मॅरी |
+| Socrates | सुकरात | सॉक्रेटेस |
+| Johny | जानी | जॉनी |
+
+#### 4.3.2 Brand Names
+
+#### 4.3.3 Keyboard Keys
 
 #### 4.3.4 Others
+
+Cultural names like names of places, religions, cultures, languages, etc often have a Hindi version. When available use them instead of simply transliterating: 
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| American | अमेरीकन | अमरीकी |
+| Egypt | इजिप्ट | मिस्र |
+| Indian | इंडियन | भारतीय |
+| Italian | इटॅलियन | इतालवी |
+| Chinese | चाइनीज़ | चीनी |
+| South Korean | साउथ कोरियन | दक्षिण कोरियाई |
 
 ### 4.4. Legal Texts & Licenses
 
