@@ -1,12 +1,14 @@
-## 4. Text Conventions
+## 4. Conventions
 
 ### 4.1. Abbreviations
 
 ### 4.2. Acronymns
 
-### 4.3. Names
+### 4.3. Gender
 
-#### 4.3.1 People
+### 4.4. Names
+
+#### 4.4.1 People
 
 Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
 
@@ -17,11 +19,11 @@ Names of people should be simply transliterated instead of translated, even if a
 | Socrates | सुकरात | सॉक्रेटेस |
 | Johny | जानी | जॉनी |
 
-#### 4.3.2 Brand Names
+#### 4.4.2 Brand Names
 
-#### 4.3.3 Keyboard Keys
+#### 4.4.3 Keyboard Keys
 
-#### 4.3.4 Others
+#### 4.4.4 Others
 
 Cultural names like names of places, religions, cultures, languages, etc often have a Hindi version. When available use them instead of simply transliterating: 
 
@@ -34,6 +36,6 @@ Cultural names like names of places, religions, cultures, languages, etc often h
 | Chinese | चाइनीज़ | चीनी |
 | South Korean | साउथ कोरियन | दक्षिण कोरियाई |
 
-### 4.4. Legal Texts & Licenses
+### 4.5. Legal Texts & Licenses
 
 There is some sort of license and other legal statements distributed with software. WordPress contains a `license.txt` in its root folder. The wording of such texts is chosen very carefully and is binding in a court of law. Which is why such texts shouldn't be replaced by a translation, however good it may be. So, [don't translate](https://make.wordpress.org/polyglots/handbook/translating/working-with-core/#do-not-translate) legal texts and licenses.
