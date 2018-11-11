@@ -9,7 +9,7 @@ gulp.task('build', function() {
 	  './source/general-guidelines.md',
 	  './source/spellings.md', 
 	  './source/punctuations.md',
-	  './source/text-conventions.md',
+	  './source/conventions.md',
 	  './source/localisation-l10n.md',
 	  './source/numerals.md',
 	  './source/units-measurements.md'

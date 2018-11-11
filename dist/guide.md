@@ -21,15 +21,19 @@
   * [3.1. Full-Stop](#31-full-stop)
   * [3.2. Capitalisation & UPPERCASE](#32-capitalisation--uppercase)
   * [3.3. Colon (:)](#33-colon-)
-- [4. Text Conventions](#4-text-conventions)
-  * [4.1. Acronymns](#41-acronymns)
-  * [4.2. Abbreviations](#42-abbreviations)
-  * [4.3. Branding](#43-branding)
-  * [4.4. Legal Texts](#44-legal-texts)
+- [4. Conventions](#4-conventions)
+  * [4.1. Abbreviations](#41-abbreviations)
+  * [4.2. Acronymns](#42-acronymns)
+  * [4.3. Gender](#43-gender)
+  * [4.4. Names](#44-names)
+    + [4.4.1 People](#441-people)
+    + [4.4.2 Brand Names](#442-brand-names)
+    + [4.4.3 Keyboard Keys](#443-keyboard-keys)
+    + [4.4.4 Others](#444-others)
+  * [4.5. Legal Texts & Licenses](#45-legal-texts--licenses)
 - [5. Localisation (l10n)](#5-localisation-l10n)
   * [5.1. Date and Time](#51-date-and-time)
   * [5.2. Currency](#52-currency)
-  * [5.3. Proper Nouns](#53-proper-nouns)
 - [6. Numerals](#6-numerals)
   * [6.1. Numbering System](#61-numbering-system)
 - [7. Units and Measurements](#7-units-and-measurements)
@@ -201,15 +205,47 @@ The general recommendation is to increase the font-size for uppercase text (to i
 A colon (`:`) is used before a list or an explanation that follows. Since there is a character Visarga
 (`:`) in Hindi similar to colon, to avoid confusion we use long dash (`–`) instead of the English colon.
 
-## 4. Text Conventions
+## 4. Conventions
 
-### 4.1. Acronymns
+### 4.1. Abbreviations
 
-### 4.2. Abbreviations
+### 4.2. Acronymns
 
-### 4.3. Branding
+### 4.3. Gender
 
-### 4.4. Legal Texts
+### 4.4. Names
+
+#### 4.4.1 People
+
+Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Uthman | उस्मान | उथमान | 
+| Mary | मेरी | मॅरी |
+| Socrates | सुकरात | सॉक्रेटेस |
+| Johny | जानी | जॉनी |
+
+#### 4.4.2 Brand Names
+
+#### 4.4.3 Keyboard Keys
+
+#### 4.4.4 Others
+
+Cultural names like names of places, religions, cultures, languages, etc often have a Hindi version. When available use them instead of simply transliterating: 
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| American | अमेरीकन | अमरीकी |
+| Egypt | इजिप्ट | मिस्र |
+| Indian | इंडियन | भारतीय |
+| Italian | इटॅलियन | इतालवी |
+| Chinese | चाइनीज़ | चीनी |
+| South Korean | साउथ कोरियन | दक्षिण कोरियाई |
+
+### 4.5. Legal Texts & Licenses
+
+There is some sort of license and other legal statements distributed with software. WordPress contains a `license.txt` in its root folder. The wording of such texts is chosen very carefully and is binding in a court of law. Which is why such texts shouldn't be replaced by a translation, however good it may be. So, [don't translate](https://make.wordpress.org/polyglots/handbook/translating/working-with-core/#do-not-translate) legal texts and licenses.
 
 ## 5. Localisation (l10n)
 
@@ -232,29 +268,6 @@ Time is expressed the same universally.
 Any `$` sign in original text must be replaced by `₹` in translations. An exception to this rule is when the text contains the price of something (eg, $100) in which case it can be misleading to simply replace the currency symbol.
 
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
-
-### 5.3. Proper Nouns
-
-Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
-
-| Source | Target (Wrong) | Target (Correct) |
-| ------ | -------------- | ---------------- |
-| Uthman | उस्मान | उथमान | 
-| Mary | मेरी | मॅरी |
-| Socrates | सुकरात | सॉक्रेटेस |
-| Johny | जानी | जॉनी |
-
-Cultural names like names of places, religions, cultures, languages, etc often have a Hindi version. When available use them instead of simply transliterating: 
-
-| Source | Target (Wrong) | Target (Correct) |
-| ------ | -------------- | ---------------- |
-| American | अमेरीकन | अमरीकी |
-| Egypt | इजिप्ट | मिश्र |
-| Indian | इंडियन | भारतीय |
-| Italian | इटॅलियन | इतालवी |
-| Chinese | चाइनीज़ | चीनी |
-| South Korean | साउथ कोरियन | दक्षिण कोरियाई |
-
 ## 6. Numerals
 
 International numerals are derived from Indian numerals via Arabic numerals and the decimal system also comes from India so we don't have any deviation.
