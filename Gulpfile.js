@@ -8,11 +8,11 @@ gulp.task('build', function() {
 	  './source/index.md',
 	  './source/general-guidelines.md',
 	  './source/spellings.md', 
-	  './source/punctuations-text-conventions.md',
+	  './source/punctuations.md',
+	  './source/conventions.md',
 	  './source/localisation-l10n.md',
 	  './source/numerals.md',
-	  './source/units-measurements.md',
-	  './source/basic-quality-parameters.md'
+	  './source/units-measurements.md'
   ])
     .pipe(concat('guide.md'))
 	.pipe(toc())

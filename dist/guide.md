@@ -17,18 +17,30 @@
     + [2.4.3. -यें vs -एँ](#243--%E0%A4%AF%E0%A5%87%E0%A4%82-vs--%E0%A4%8F%E0%A4%81)
     + [2.4.4. A simple trick for vowel vs य](#244-a-simple-trick-for-vowel-vs-%E0%A4%AF)
   * [2.5. -ह्न vs -न्ह](#25--%E0%A4%B9%E0%A5%8D%E0%A4%A8-vs--%E0%A4%A8%E0%A5%8D%E0%A4%B9)
-- [3. Punctuations and Text Conventions](#3-punctuations-and-text-conventions)
-- [4. Localisation (l10n)](#4-localisation-l10n)
-  * [4.1. Date and Time](#41-date-and-time)
-  * [4.2. Currency](#42-currency)
-- [5. Numerals](#5-numerals)
-  * [5.1 Numbering System](#51-numbering-system)
-- [6. Units and Measurements](#6-units-and-measurements)
-  * [6.1 Volume, Weight, Length](#61-volume-weight-length)
-  * [6.2 Power, Temperature, Electricity](#62-power-temperature-electricity)
-  * [6.3 Time Units](#63-time-units)
-  * [6.4 Information Units](#64-information-units)
-- [7. Basic Quality Parameters](#7-basic-quality-parameters)
+- [3. Punctuations](#3-punctuations)
+  * [3.1. Full-Stop](#31-full-stop)
+  * [3.2. Capitalisation & UPPERCASE](#32-capitalisation--uppercase)
+  * [3.3. Colon (:)](#33-colon-)
+- [4. Conventions](#4-conventions)
+  * [4.1. Abbreviations](#41-abbreviations)
+  * [4.2. Acronymns](#42-acronymns)
+  * [4.3. Gender](#43-gender)
+  * [4.4. Names](#44-names)
+    + [4.4.1 People](#441-people)
+    + [4.4.2 Brand Names](#442-brand-names)
+    + [4.4.3 Keyboard Keys](#443-keyboard-keys)
+    + [4.4.4 Others](#444-others)
+  * [4.5. Legal Texts & Licenses](#45-legal-texts--licenses)
+- [5. Localisation (l10n)](#5-localisation-l10n)
+  * [5.1. Date and Time](#51-date-and-time)
+  * [5.2. Currency](#52-currency)
+- [6. Numerals](#6-numerals)
+  * [6.1. Numbering System](#61-numbering-system)
+- [7. Units and Measurements](#7-units-and-measurements)
+  * [7.1 Volume, Weight, Length](#71-volume-weight-length)
+  * [7.2 Power, Temperature, Electricity](#72-power-temperature-electricity)
+  * [7.3 Time Units](#73-time-units)
+  * [7.4 Information Units](#74-information-units)
 
 <!-- tocstop -->
 
@@ -174,11 +186,70 @@ When a nasalisation (usually न, but sometimes म) comes after a ह्, a lot
 | ------ | -------------- | ---------------- |
 | Sign | चिन्ह | चिह्न |
 | God | ब्रम्ह | ब्रह्म |
-## 3. Punctuations and Text Conventions
+## 3. Punctuations
 
-## 4. Localisation (l10n)
+The predecessor mother language of Hindi, Sanskrit has no punctuation except `।` (full-stop/end of sentence, पूर्ण-विराम) and `।।` (end of paragraph, दीर्घ-विराम). That's because Sanskrit has unique properties because of which it just [doesn't need punctuation](https://uttishthabharata.wordpress.com/2011/08/27/sanskrit-punctuation/). So, the punctuation used in Hindi is the same as English, except for a few cases described below.
 
-### 4.1. Date and Time
+### 3.1. Full-Stop
+
+The `।` (khadi pai/ danda) is used instead of a full-stop. Usage of the full-stop itself is acceptable generally but it is recomended that this rule remains consistent throught the body of work. In WordPress, we use `।` everywhere.
+
+### 3.2. Capitalisation & UPPERCASE
+
+The Devnagari script doesn't have the concept of lower and upper cases. In English, cases are used to highlight letters and heavily emphasise words (to indicate loudness/ shouting). (WordPress is an example!)
+
+The general recommendation is to increase the font-size for uppercase text (to indicate shouting) and ignore capitalisation. Since translators don't have access to font-size, it is recommended to use inverted commas for fully uppercase words. Capitalisations can be ignored safely. So WordPress becomes वर्डप्रेस with no highlights.
+
+### 3.3. Colon (:)
+
+A colon (`:`) is used before a list or an explanation that follows. Since there is a character Visarga
+(`:`) in Hindi similar to colon, to avoid confusion we use long dash (`–`) instead of the English colon.
+
+## 4. Conventions
+
+### 4.1. Abbreviations
+
+### 4.2. Acronymns
+
+### 4.3. Gender
+
+### 4.4. Names
+
+#### 4.4.1 People
+
+Names of people should be simply transliterated instead of translated, even if an apparent equivalent name exists in general culture.
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| Uthman | उस्मान | उथमान | 
+| Mary | मेरी | मॅरी |
+| Socrates | सुकरात | सॉक्रेटेस |
+| Johny | जानी | जॉनी |
+
+#### 4.4.2 Brand Names
+
+#### 4.4.3 Keyboard Keys
+
+#### 4.4.4 Others
+
+Cultural names like names of places, religions, cultures, languages, etc often have a Hindi version. When available use them instead of simply transliterating: 
+
+| Source | Target (Wrong) | Target (Correct) |
+| ------ | -------------- | ---------------- |
+| American | अमेरीकन | अमरीकी |
+| Egypt | इजिप्ट | मिस्र |
+| Indian | इंडियन | भारतीय |
+| Italian | इटॅलियन | इतालवी |
+| Chinese | चाइनीज़ | चीनी |
+| South Korean | साउथ कोरियन | दक्षिण कोरियाई |
+
+### 4.5. Legal Texts & Licenses
+
+There is some sort of license and other legal statements distributed with software. WordPress contains a `license.txt` in its root folder. The wording of such texts is chosen very carefully and is binding in a court of law. Which is why such texts shouldn't be replaced by a translation, however good it may be. So, [don't translate](https://make.wordpress.org/polyglots/handbook/translating/working-with-core/#do-not-translate) legal texts and licenses.
+
+## 5. Localisation (l10n)
+
+### 5.1. Date and Time
 
 > Most auto-generated dates are taken care of by localisation mechanisms built into WordPress. This is only for specific dates mentioned in text, for instance, in announcements.
 
@@ -190,14 +261,15 @@ Time is expressed the same universally.
 
 >Also see the section on [Numerals](#numerals) 
 
-### 4.2. Currency
+### 5.2. Currency
 
 > Most auto-generated pricing is taken care of in code. This is only in case it appears as it is in strings.
 
 Any `$` sign in original text must be replaced by `₹` in translations. An exception to this rule is when the text contains the price of something (eg, $100) in which case it can be misleading to simply replace the currency symbol.
 
 In special cases, based on discussions with the author/owner of the original text, you could convert the value as well. However, as a general guideline, keep the price as it is.
-## 5. Numerals
+
+## 6. Numerals
 
 International numerals are derived from Indian numerals via Arabic numerals and the decimal system also comes from India so we don't have any deviation.
 
@@ -206,7 +278,7 @@ Although Devnagari numerals(०,१,२,३,४,५,६,७,८,९) exist, they
 So, we stick to that for translations and only use international numerals (0,1,2,3,4,5,6,7,8,9).
 
 
-### 5.1 Numbering System
+### 6.1. Numbering System
 
 The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_system) is different from the Western numbering system for expressing numbers larger than ten thousands. Lakhs (लाख) & crores (करोड़) are used in place of millions and billions. Although, there are words for numbers larger than a crore (arabs and kharabs), generally such numbers are expressed in crores.
 
@@ -220,11 +292,11 @@ The [Indian numbering system](https://en.wikipedia.org/wiki/Indian_numbering_sys
 | 1,000,000,000 (One billion)| 1,00,00,00,000 (सौ करोड़, ~~एक अरब~~)|
 | 100,000,000,000 (Hundred billion)| 1,00,00,00,00,000 (दस हज़ार करोड़, ~~एक खरब~~)|
 
-## 6. Units and Measurements
+## 7. Units and Measurements
 
 The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officially and unofficially in India in all languages. Except for measuring body temperature (where we use Fahrenheit), generally temperature in India is measured in Celsius. So for Hindi translation, it should be changed in Celsius if in source language, it is in different units.
 
-### 6.1 Volume, Weight, Length
+### 7.1 Volume, Weight, Length
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -237,7 +309,7 @@ The [metric system](https://en.wikipedia.org/wiki/Metric_system) is used officia
 | Centimeter | सेंटीमीटर | से.मी. |
 | Millimeter | मिलीमीटर | मि.मी. |
 
-### 6.2 Power, Temperature, Electricity
+### 7.2 Power, Temperature, Electricity
 
 Unlike, the units of weight, volume & measurement, the abbreviations from English are used directly instead of transliteration or translation.
 
@@ -251,7 +323,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Celsius | सेल्सियस | °С |
 | Fahrenheit | फ़ॅरेनहाइट | °F |
 
-### 6.3 Time Units
+### 7.3 Time Units
 
 | English | Hindi | Hindi (Abbreviated) |
 | ------- | ----- | ------------------- |
@@ -259,7 +331,7 @@ Unlike, the units of weight, volume & measurement, the abbreviations from Englis
 | Minute | मिनट | मि. |
 | Second | सेकंड | से. |
 
-### 6.4 Information Units
+### 7.4 Information Units
 
 Information units are used in the same way as they're used internationally but are transliterated. No points are used in the abbreviation because they have become common words in general usage and in popular media.
 
@@ -272,5 +344,3 @@ Information units are used in the same way as they're used internationally but a
 | bit | बिट | बिट |
 | Kilobytes per second | किलोबाइट प्रति सेकंड | केबीपीएस |
 | Megabytes per second | मेगाबाइट प्रति सेकंड | एमबीपीएस |
-
-## 7. Basic Quality Parameters
